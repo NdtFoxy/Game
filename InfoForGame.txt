@@ -1,0 +1,6 @@
+// Игровые карты
+Player1_Cards = "<empty>"    // Карты игрока 1
+Player2_Cards = "<empty>"    // Карты игрока 2
+
+Table_Cards = "<empty>"      // Карты на столе (общие карты)
+Krupie_Cards = "<empty>"     // Карты крупье (если это нужно в игре)

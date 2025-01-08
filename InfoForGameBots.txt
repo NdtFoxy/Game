@@ -1,0 +1,12 @@
+Player_Cards = 5D, 8C
+Bot1_Cards = 8H, 5D
+Bot2_Cards = KD, TH
+Bot3_Cards = 9H, AS
+Bot4_Cards = TC, AC
+Player_Money = 0
+Bot1_Money = 33
+Bot2_Money = 72
+Bot3_Money = 542
+Bot4_Money = 810
+Table_Cards = <empty>
+Krupie_Cards = 5H, 7H, 9H, TD, 4C, TS, 2H, AD, 7C, 4H, 5C, KH, AC, QC, QH, 4S, 6H, 9D, 3S, 4D, 6C, 8D, 7D, 3C, 6S, 3H, 8C, AD, JD, 6D, 5S, 2C, JH, 9S, JS, 8S, JD, AH, JC, 6H, 3D, 7S, TC, KC, 3C, KS, QD, AS, QS, 9D, 9C, 2S, 2D, JS, 8S

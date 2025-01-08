@@ -1,0 +1,64 @@
+// Language Settings
+Default_Language = "English"
+Current_Language = "<empty>"
+Player1_Language = "<empty>"
+Player2_Language = "<empty>"
+
+// Selected Game
+Default_Game = "Texas Hold'em"
+Selected_Game = "<empty>"
+
+// Selected type game
+With_bot = 1
+
+
+// Money Settings
+Bot_Starting_Money = 1000
+Player1_Starting_Money = 1000
+Player2_Starting_Money = 1000
+
+// Game Statistics
+// Bot Stats
+Bot_Wins = "<empty>"
+Bot_Losses = "<empty>"
+
+Bot_Combination_Royal_Flush = "<empty>"       // Роял-флеш
+Bot_Combination_Straight_Flush = "<empty>"    // Стрит-флеш
+Bot_Combination_Four_of_a_Kind = "<empty>"    // Каре
+Bot_Combination_Full_House = "<empty>"        // Фулл-хаус
+Bot_Combination_Flush = "<empty>"             // Флеш
+Bot_Combination_Straight = "<empty>"          // Стрит
+Bot_Combination_Three_of_a_Kind = "<empty>"   // Тройка
+Bot_Combination_Two_Pairs = "<empty>"         // Два пари
+Bot_Combination_One_Pair = "<empty>"          // Пара
+Bot_Combination_High_Card = "<empty>"         // Старшая карта
+
+// Player1 Stats
+Player1_Wins = "<empty>"
+Player1_Losses = "<empty>"
+
+Player1_Combination_Royal_Flush = "<empty>"       // Роял-флеш
+Player1_Combination_Straight_Flush = "<empty>"    // Стрит-флеш
+Player1_Combination_Four_of_a_Kind = "<empty>"    // Каре
+Player1_Combination_Full_House = "<empty>"        // Фулл-хаус
+Player1_Combination_Flush = "<empty>"             // Флеш
+Player1_Combination_Straight = "<empty>"          // Стрит
+Player1_Combination_Three_of_a_Kind = "<empty>"   // Тройка
+Player1_Combination_Two_Pairs = "<empty>"         // Два пари
+Player1_Combination_One_Pair = "<empty>"          // Пара
+Player1_Combination_High_Card = "<empty>"         // Старшая карта
+
+// Player2 Stats
+Player2_Wins = "<empty>"
+Player2_Losses = "<empty>"
+
+Player2_Combination_Royal_Flush = "<empty>"       // Роял-флеш
+Player2_Combination_Straight_Flush = "<empty>"    // Стрит-флеш
+Player2_Combination_Four_of_a_Kind = "<empty>"    // Каре
+Player2_Combination_Full_House = "<empty>"        // Фулл-хаус
+Player2_Combination_Flush = "<empty>"             // Флеш
+Player2_Combination_Straight = "<empty>"          // Стрит
+Player2_Combination_Three_of_a_Kind = "<empty>"   // Тройка
+Player2_Combination_Two_Pairs = "<empty>"         // Два пари
+Player2_Combination_One_Pair = "<empty>"          // Пара
+Player2_Combination_High_Card = "<empty>"         // Старшая карта
